@@ -1,7 +1,9 @@
-# Hi, I'm Parth 👋
+<!-- 
+# Hi, I'm Parth Khanija 👋
 
-I'm a **Computer Science & Game Design** student at DigiPen Institute of Technology (Class of 2027) based in Redmond, WA.
+I'm a **Computer Science & Game Design** student at **DigiPen Institute of Technology,** Class of 2027 based in Redmond, WA.
 I enjoy building performance‑sensitive systems, custom game engines, and full‑stack tools that focus on clean architecture and predictable behavior.
+-->
 
 ---
 
@@ -15,7 +17,7 @@ Unity • Unreal • React • MySQL • CSS • OpenGL • GLFW • Godot • D
 
 ---
 
-## Experience
+## Relevant Experience
 
 **Teaching Assistant — DigiPen Institute of Technology**  
 *June 2025 – Present · Redmond, WA*
